@@ -1,0 +1,5 @@
+此项目主要爬取了猫途鹰网站上美食数据，包括餐厅相关数据和用户评论相关数据
+parser_test.py #爬取猫途鹰上餐厅数据
+parser_comments.py  #爬取猫途鹰上用户评论数据
+merge_file.py       #数据整合
+tomysql.py          #将数据导入数据库中
